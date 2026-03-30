@@ -11,7 +11,7 @@ used to learn some programing long time ago<br>
 trying to be a software engineer 
 </p>
 </div>
-<p>คุณโจสอนผมมาครับ</p>p
+<p>คุณโจสอนผมมาครับ</p>
 
 
 
