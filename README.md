@@ -14,7 +14,7 @@ trying to be a software engineer
 <p>คุณโจสอนผมมาครับ</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,eclipse,mongodb)](https://skillicons.dev)
-https://www.codewars.com/users/Koala566/badges/large
+<img src="https://www.codewars.com/users/Koala566/badges/large">
 
 <div align ="right"> 
 
