@@ -23,3 +23,8 @@ trying to be a software engineer
 </sub>
 </div>
 
+
+<div>
+ ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+</div>
+
