@@ -25,5 +25,6 @@ trying to be a software engineer
 
 
 <div>
+![snake gif](https://github.com/akkarawinS/akkarawinS/blob/output/github-snake-dark.svg)
 </div>
 
