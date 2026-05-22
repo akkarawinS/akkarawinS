@@ -24,6 +24,7 @@ trying to be a software engineer
 </div>
 
 
-<div>
-</div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akkarawinS/akkarawinS/cf6f08209e49232451973a418340a792123224e8/github-snake-dark.svg" width="100%" />
+</p>
