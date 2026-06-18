@@ -13,11 +13,14 @@ trying to be a software engineer
 </div>
 <p>คุณโจสอนผมมาครับ</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,eclipse,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,mongodb,express,nodejs,py)](https://skillicons.dev)
 <br>
 <img src="https://www.codewars.com/users/Koala566/badges/micro">
 
 <div align ="right"> 
+
+ [![My Skills](https://skillicons.dev/icons?i=discord,github,git,eclipse)](https://skillicons.dev)
+
 
 <sub > <br><br> <br>   this profile insprired from some of my friend 
 </sub>
