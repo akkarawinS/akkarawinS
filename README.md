@@ -19,7 +19,7 @@ trying to be a software engineer
 
 <div align ="right"> 
 
- [![My Skills](https://skillicons.dev/icons?i=discord,github,git,eclipse)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=discord,github,git)](https://skillicons.dev)
 
 
 <sub > <br><br> <br>   this profile insprired from some of my friend 
