@@ -11,7 +11,6 @@ used to learn some programing long time ago<br>
 trying to be a software engineer 
 </p>
 </div>
-<p>คุณโจสอนผมมาครับ</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,mongodb,express,nodejs,py)](https://skillicons.dev)
 <br>
