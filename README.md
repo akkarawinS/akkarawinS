@@ -5,9 +5,8 @@
 <h1>About me<div></h1>
   
 <div align="left">
-<p>New coding learner?<br> 
-used to learn some programing long time ago<br>
-trying to be a software engineer 
+<p>I build web apps with React and Node.js, from database design and APIs to the user interface.
+ I'm looking for my first role as a developer, ideally in a team where I can learn from experienced engineers and work on software that real people use.
 </p>
 </div>
 
