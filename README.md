@@ -19,7 +19,7 @@
  [![My Skills](https://skillicons.dev/icons?i=discord,github,git)](https://skillicons.dev)
 
 
-<sub > <br><br> <br>   this profile insprired from some of my friend 
+<sub > <br><br> <br>   
 </sub>
 </div>
 
