@@ -12,12 +12,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,mongodb,express,nodejs,py)](https://skillicons.dev)
 <br>
-<img src="https://www.codewars.com/users/Koala566/badges/micro">
 
 <div align ="right"> 
 
  [![My Skills](https://skillicons.dev/icons?i=discord,github,git)](https://skillicons.dev)
 
+
+
+## 🧠 Problem Solving
+Continuously improving my algorithmic thinking
+and problem-solving skills through coding challenges.
+
+[![Codewars](https://www.codewars.com/users/Koala566/badges/large)](https://www.codewars.com/users/Koala566)
 
 <sub > <br><br> <br>   
 </sub>
